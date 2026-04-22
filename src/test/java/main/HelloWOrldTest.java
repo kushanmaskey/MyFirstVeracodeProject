@@ -7,6 +7,5 @@ public class HelloWOrldTest {
 	public void sayHelloTest() {
 		HelloWorld helloWorld = new HelloWorld();
 		helloWorld.sayHello();
-		helloWorld.sayHello();
 	}
 }
