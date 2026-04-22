@@ -4,4 +4,13 @@
   <artifactId>MyFirstVeracodeProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>MyFirstVeracodeProject</name>
+  <dependencies>
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter</artifactId>
+        <version>5.11.0</version> <!-- Use latest version -->
+        <scope>test</scope>
+    </dependency>
+</dependencies>
+
 </project>
