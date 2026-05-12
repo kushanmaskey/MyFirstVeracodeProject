@@ -2,10 +2,11 @@ package main;
 
 public class HelloWorld {
 
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//		System.out.println("Hellow World 1");
-//	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HellowWorld helloworld = new HelloWorld();
+		helloword.sayHello();
+	}
 	
 	HelloWorld() {
 		
