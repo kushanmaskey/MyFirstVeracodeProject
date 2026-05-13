@@ -1,12 +1,6 @@
 package main;
 
 public class HelloWorld {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		HellowWorld helloworld = new HelloWorld();
-		helloword.sayHello();
-	}
 	
 	HelloWorld() {
 		
@@ -16,7 +10,7 @@ public class HelloWorld {
 	
 	
 	public void sayHello() {
-		System.out.println("Hello user " + username " password: " + password);
+		System.out.println("Hello user " + username + " password: " + password);
 	}
 
 }
